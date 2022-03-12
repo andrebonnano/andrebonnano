@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-#### I'm André Bonnano, UX/UI Designer, Frontend & Backend Developer with over than 20 years expertise in design & technology designing, developing and leading teams and making clients happy!
+#### I'm André Bonnano, UX/UI Designer, Frontend & Backend Developer with over than 20 years expertise in design & technology designing, developing, leading teams and making clients happy!
 
 <div>
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=bonnano1980&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
