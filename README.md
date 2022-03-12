@@ -7,7 +7,7 @@
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bonnano1980&layout=compact&langs_count=7&theme=onedark"/>
 </div>
 
-### Languages
+## Languages
 <div>
   <img alt="André Bonnano - HTML" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img alt="André Bonnano - CSS" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -27,7 +27,4 @@
 - 🌎 Visit my website: [andrebonnano.com](https://andrebonnano.com)
 - 📃 Wanna see me Curriculum [click here](https://andrebonnano.com/curriculum/CurriculumAndreBonnano2022-DEV.pdf)
 ---------------------------------------------------------------------------
- 
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+
