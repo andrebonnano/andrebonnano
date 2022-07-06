@@ -22,7 +22,7 @@
 </div>
 
 ---------------------------------------------------------------------------
-- 🔭 Currently workin on C# Development
+- 🔭 Currently workin on C# Development @ NTT Data
 - 🌱 Always learning something new (Currently to be a fullstack developer)
 - 📫 You can find me on andrebonnano@gmail.com
 - 🌎 Visit my website: [andrebonnano.com](https://andrebonnano.com)
