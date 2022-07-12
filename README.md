@@ -3,8 +3,8 @@
 #### I'm André Bonnano, UX/UI Designer, Frontend & Backend Developer with over than 20 years expertise in design & technology designing, developing, leading teams and making clients happy!
 
 <div>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=bonnano1980&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bonnano1980&layout=compact&langs_count=7&theme=onedark"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=andrebonnano&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrebonnano&layout=compact&langs_count=7&theme=onedark"/>
 </div>
 
 ## Languages
