@@ -26,6 +26,6 @@
 - 🌱 Always learning something new (Currently to be a fullstack developer)
 - 📫 You can find me on andrebonnano@gmail.com
 - 🌎 Visit my website: [andrebonnano.com](https://andrebonnano.com)
-- 📃 Wanna see me Linkedin [click here](https://www.linkedin.com/in/andrebonnano/)
+- 📃 Wanna see my Linkedin [click here](https://www.linkedin.com/in/andrebonnano/)
 ---------------------------------------------------------------------------
 
